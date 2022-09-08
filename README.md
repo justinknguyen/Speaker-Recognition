@@ -1,2 +1,2 @@
 # Speaker-Recognition
-ENCM 509 Project - Biometrics project to recognize a speaker
+ENCM 509 Project - biometrics project to recognize a speaker
